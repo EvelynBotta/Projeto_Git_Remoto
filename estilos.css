@@ -1,0 +1,23 @@
+h1 { 
+  color: mediumvioletred;
+  font-size: 22px;
+} 
+
+p {
+ color: red;
+ font-size: 30px;
+}
+
+h3 { 
+  color: aquamarine;
+  font-size: 35px;
+} 
+
+body {
+  background-color: lavenderblush;
+  text-align: center;
+}
+
+img {
+  max-width: 100%;
+}
